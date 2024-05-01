@@ -1,8 +1,3 @@
-# React + Vite
+Sitio web totalmente adaptable con React JS y CSS Tailwind. Sitio web con barra de navegación de ancho completo, diseño de cuadrícula de mampostería, un control deslizante de imágenes. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Destacamos que los botones no redireccionan. Este sitio web esta diseñado para aprender a implementar Tailwind CSS de manera correcta pensando en mobile first.
